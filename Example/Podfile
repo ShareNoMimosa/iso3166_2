@@ -1,0 +1,7 @@
+use_frameworks!
+target 'iso3166_2_Tests' do
+  pod 'iso3166_2', :path => '../'
+  
+  pod 'Quick', '~> 1.2.0'
+    pod 'Nimble', '~> 7.0.2'
+end
