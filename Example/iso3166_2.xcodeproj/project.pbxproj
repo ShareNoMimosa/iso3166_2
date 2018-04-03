@@ -17,10 +17,10 @@
 		607FACE51AFB9204008FA782 /* iso3166_2_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iso3166_2_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		B462945844198B505844C045 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		C4EAF5C3BF2D867D3F2F45A5 /* iso3166_2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = iso3166_2.podspec; path = ../iso3166_2.podspec; sourceTree = "<group>"; };
+		B462945844198B505844C045 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C4EAF5C3BF2D867D3F2F45A5 /* iso3166_2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = iso3166_2.podspec; path = ../iso3166_2.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CC2ACF2AF0B3DC1FD8CA0AE9 /* Pods-iso3166_2_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iso3166_2_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-iso3166_2_Tests/Pods-iso3166_2_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F8A386E2E8566F97EB6A32E4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F8A386E2E8566F97EB6A32E4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,10 +131,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

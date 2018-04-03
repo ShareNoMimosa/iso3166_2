@@ -1,0 +1,6 @@
+framework module iso3166_2 {
+  umbrella header "iso3166_2-umbrella.h"
+
+  export *
+  module * { export * }
+}

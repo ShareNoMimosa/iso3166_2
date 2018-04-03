@@ -5,10 +5,6 @@
 [![License](https://img.shields.io/cocoapods/l/iso3166_2.svg?style=flat)](http://cocoapods.org/pods/iso3166_2)
 [![Platform](https://img.shields.io/cocoapods/p/iso3166_2.svg?style=flat)](http://cocoapods.org/pods/iso3166_2)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
 
 ## Installation
@@ -22,8 +18,12 @@ pod 'iso3166_2'
 
 ## Author
 
-mmaeshiro@scu.edu, masonmaeshiro@gmail.com
+Mason Maeshiro, masonmaeshiro@gmail.com
 
 ## License
 
 iso3166_2 is available under the MIT license. See the LICENSE file for more info.
+
+## Sources
+
+ISO 3166-2 Country/Subdivision csv file downloaded at http://www.geopostcodes.com/resources#iso
